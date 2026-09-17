@@ -4,7 +4,7 @@ Blockchain-powered financial inclusion and real-time payment verification platfo
 
 ### Blockchain-Powered Financial Inclusion & Real-Time Payment Verification
 
-PayBridge is a fintech prototype that combines **real-time digital payments, blockchain verification, AI-powered financial insights, and user-controlled consent** to create a trusted financial activity layer for underserved users and small merchants.
+PayBridge is a fintech prototype concept that combines real-time digital payments, blockchain-based verification, AI-powered financial insights, and user-controlled consent to create a trusted financial activity layer for underserved users and small merchants.
 
 The project is being developed for the **Drunix Hackathon in collaboration with Citi**, organized by the **India Blockchain Forum**.
 
